@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Documents\\AMIS3610\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "f:\\Documents\\AMIS3610\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "F:\\Documents\\AMIS3610\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "f:\\Documents\\AMIS3610\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "F:\\Documents\\AMIS3610\\HelloWorld\\obj\\",
+      "outputPath": "f:\\Documents\\AMIS3610\\hello-world-dotnet\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
